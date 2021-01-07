@@ -5,5 +5,10 @@ Disallow: /assets/
 
 User-agent: Googlebot
 Crawl-delay: 250
-allow: /
+Allow: /
+Disallow: /assets/
+
+User-agent: Googlebot-Image
+Crawl-delay: 250
+Allow: /
 Disallow: /assets/
