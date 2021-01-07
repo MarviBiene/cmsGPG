@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-delay: 500
+Disallow:: /
+Disallow: /assets/
+
+User-agent: Googlebot
+Crawl-delay: 250
+allow: /
+Disallow: /assets/
